@@ -1,0 +1,97 @@
+========== HOME ==========
+.home__title
+New Clothing <br>
+Collection
+
+.home__description
+The new collection of clothing from <br>
+the best brands this year.
+
+.button__link
+Explore
+
+========== NEW ==========
+.section__title
+New Categories
+
+.new__title | .new__subtitle
+Hoodie & Sweatshirt
+Winter collection
+
+Pants & Jackets
+Winter collection
+
+Coats & Coat Sets
+Winter collection
+
+========== COLLECTION ==========
+.collection__title
+Men <br>
+Collection
+
+Women <br>
+Collection
+
+.button__link
+Explore Clothes
+
+========== PRODUCTS ==========
+.section__title
+Best Products
+
+.products__title | .products__price
+Gotland black Jacket
+$124.99
+
+Black Sports Shorts
+$34.99
+
+Knox Quilted Jacket
+$97.99
+
+Blue Sport Pants
+$69.99
+
+========== BRANDS ==========
+.section__title
+Brands We Sell
+
+========== FOOTER ==========
+.footer__description
+Committed to bringing you the <br> 
+best clothing from popular <br>
+brands.
+
+.footer__title | .footer__link
+Company
+Shop
+Category
+Contact info
+
+Blog
+Events
+Popular news
+Recent news
+
+Office
+
+.footer__information
+Monday - Saturday <br>
+9AM - 10PM
+
+Contact us
+.footer__social-link
+<!-- Insert your name from your facebook page -->
+https://www.facebook.com/
+
+<!-- Insert your name from your instagram page -->
+https://www.instagram.com/
+
+<!-- Insert a real number plus country code -->
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+
+.footer__copy
+&#169; Bedimcode. All rigths reserved
+
+.footer__privacy
+Terms & Conditions

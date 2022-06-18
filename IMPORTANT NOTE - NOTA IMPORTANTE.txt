@@ -1,0 +1,39 @@
+IMPORTANT NOTE - Description English 
+
+*Favicon
+
+If you want to create your favicon, do it in any design tool
+(I recommend figma, it's easier) and export it with the size of 32px.
+
+* Images of the project
+
+If you want to change the project images. Note that
+they must measure the same size of the images that are in the img folder,
+Example:(collection images: 550px x 795px)
+
+You can change the images by going to the figma file, there
+find a template where you will insert your preferred image and you can export it.
+
+Create your figma account and simply drag the file to be able to edit the 
+project images.
+
+===================================================================
+
+NOTA IMPORTANTE - Descripción Español
+
+* Favicon
+
+Si desea crear su favicon, hagalo en cualquier herramienta de diseño
+(recomiendo figma, es más sencillo) y exportalo con la medida de 32px.
+
+* Imágenes del proyecto
+
+Si desea cambiar las imágenes del proyecto. Tenga en cuenta que
+deben medir el mismo tamaño de las imágenes que se encuentran en la carpeta img,
+Ejemplo:(imagenes de collection: 550px x 795px)
+
+Puede cambiar las imágenes dirigiendose en el archivo figma, alli
+encuentra una plantilla donde insertara su imagen preferida y podra exportarlo.
+
+Cree su cuenta figma y solo arrastre el archivo para poder editar las imágenes 
+del proyecto.
