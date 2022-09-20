@@ -1,0 +1,29 @@
+{
+  "name": "clothstore",
+  "version": "1.0.0",
+  "description": "cloth store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Backend/server.js",
+    "server": "nodemon Backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devephy/responsive-clothing-landing-page.git"
+  },
+  "author": "ephy and bedimcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devephy/responsive-clothing-landing-page/issues"
+  },
+  "homepage": "https://github.com/devephy/responsive-clothing-landing-page#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
